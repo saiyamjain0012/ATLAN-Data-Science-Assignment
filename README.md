@@ -2,10 +2,10 @@
 Working with the Geo coordinates taken from OSM to know the commercial centers of Delhi
 
  I have divided this solution in 4 major parts- 
-     1. Making the query (Based on user selection)
-     2. Getting the data through the web query 
-     3. Cleaning and plotting the data i.e. POI retrieved 
-     4. Making the clusters ( Used 2 methods- DBSCAN and KMEANS ) 
+ 1. Making the query (Based on user selection)
+ 2. Getting the data through the web query 
+ 3. Cleaning and plotting the data i.e. POI retrieved 
+ 4. Making the clusters ( Used 2 methods- DBSCAN and KMEANS ) 
      
      
      
