@@ -34,5 +34,5 @@ These are the 'amenities' available to fetch from OSM (Open Street Map) [Source:
 So my plan of action in this solution is- <br>
 Select categories of places to look at -> Plot them on the map -> Make clusters where they occur close to each other -> Calculte and plot the centre of those localities, thus getting the commercial centre.
 
-Note- Place the delhi map files in the same folder as the .ipynb files to render them into the notebook. 
-In case of any issue or query do let me know at saiyamjain0012@gmail.com
+Note- Place the delhi map files in the same folder as the .ipynb files to render them into the notebook. Also the interactive widgets used in the solution maynot render properly in the .html file and so I have added the snapshots of those. They will work perfectly when openend in the .ipynb file though.
+In case of any other issue or query do let me know at saiyamjain0012@gmail.com
